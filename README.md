@@ -4,6 +4,7 @@ Development of a Smart Stick for the Visually Impaired using Raspberry Pi
 
 <details>
 <summary>Table of Contents</summary>
+  
 - [Description](#description)
 - [Links](#links)
 - [Tech Stack](#tech-stack)
@@ -14,6 +15,7 @@ Development of a Smart Stick for the Visually Impaired using Raspberry Pi
 - [Team Members](#team-members)
 - [Mentors](#mentors)
 - [Screenshots](#screenshots)
+  
 </details>
 
 ## 📝Description
