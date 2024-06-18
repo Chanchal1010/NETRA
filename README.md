@@ -39,5 +39,5 @@ This project outlines the design, development, and implementation of a Smart Sti
 Add names of your team members with their emails and links to their GitHub accounts
 
 
-- [Aparna Bhutada](https://github.com/):
+- [Aparna Bhutada](https://github.com/): bhutadaaparna@gmail.com 
 - [Chanchal Bahrani](https://github.com/): 10bahranichanchal@gmail.com
