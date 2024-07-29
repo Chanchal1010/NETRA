@@ -64,16 +64,16 @@ pip3 install RPi.GPIO
 
 Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/smart-stick.git
+git clone https://github.com/Chanchal1010/NETRA
 ```
 Navigate to the project directory:
 ```bash
-cd smart-stick
+cd NETRA
 ```
 
 Run the Program:
 ```bash
-python3 smart_stick.py
+python3 NETRA.py
 ```
 
 ## 🔗Links
